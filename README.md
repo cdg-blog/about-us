@@ -1,1 +1,1 @@
-# workervvv.gethub.io
+# cdg-logs.gethub.io
